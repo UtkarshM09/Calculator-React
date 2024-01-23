@@ -1,0 +1,15 @@
+.ButtonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: blanchedalmond;
+}
+
+.Button {
+  width: 65px;
+  height: 65px;
+  margin: 4px;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(243, 144, 82);
+}
